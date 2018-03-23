@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 23, 2018
 
 ### Student Name:  
-(First and Last Name)
+Kimberly Sapp
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, we looked at the code that makes up a photo carousel and made it function properly.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://kas17e.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The DOM method can be useful as it can be used to change the content of the page. In this case, it was used so that the user could click to see more photos in the gallery.
+2. "zIndex" is used when using DOM, but when using CSS it is "z-index". This helps the order of the stacked elements.
+3. If you had a node that you wanted to duplicate and alter, you could instead clone it using "existingNode.cloneNode(true | false)".
